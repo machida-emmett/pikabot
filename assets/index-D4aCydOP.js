@@ -73,19 +73,18 @@ A氏「..憶測で申し訳ないのですが、多分こちらの会の電波�
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt41",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt41:{text:`A氏とはその後ラーメン談義で白熱し、連絡先を交換することとなった。
 今日もこれから彼とラーメン屋新規開拓を行う予定だ。`,choices:[],next:"txt42",images:void 0,background:void 0},txt42:{text:`そしてこの数か月後、彼とお付き合いすることになるが...
 叶った恋より退屈な話もないため割愛させていただく。`,choices:[],next:"txt43",images:void 0,background:void 0},txt43:{text:`新調したスカートをひらりと躍らせ、ドッグへ戻るピカボットに声をかける。
-自分「君のおかげで最近楽しいよ、毎日掃除ありがとうね！」`,choices:[],next:"txt44",images:void 0,background:void 0},txt44:{text:"ピカボットは充電中であることを示すLEDを明滅させながら、静かに彼女を見送った。",choices:[],next:"txt45",images:void 0,background:void 0},txt45:{text:`...公園にて、先日SNSで知り合った少女を男は待っていた。
+自分「君のおかげで最近楽しいよ、毎日掃除ありがとうね！」`,choices:[],next:"txt44",images:void 0,background:void 0},txt44:{text:"ピカボットは充電中であることを示すLEDを明滅させながら、静かに彼女を見送った。",choices:[],next:"txt45",images:void 0,background:void 0},txt45:{text:`...公園にて、先日SNSで知り合った少女をA氏は待っていた。
 いや、本当は以前から彼女のことを知っていたのだが。`,choices:[],next:"txt46",images:void 0,background:"/pikabot/images/kouen.png"},txt46:{text:`一年ほど前、ラーメン屋で一人ラーメンをすする彼女に一目ぼれしたのだ。
-俺はすぐに行動に移した。`,choices:[],next:"txt47",images:void 0,background:"/pikabot/images/kouen.png"},txt47:{text:`彼女の部屋を突き止め、ベランダに盗聴器やなんやと設置し、彼女の安全を守ってきた。
-...設置したいくつかの装置から不可解な電波が出ていたようだが、おかげで彼女に近づくことができた。`,choices:[],next:"txt48",images:void 0,background:"/pikabot/images/kouen.png"},txt48:{text:`確かにやり方は正攻法ではなかったが...愛の前では些事だ。
-ふふふ、これからはもっと彼女のことを知れるぞ。
-そして二度と放しはしない！`,choices:[],next:"end1",images:void 0,background:"/pikabot/images/kouen.png"},end1:{text:"［END1 ピカボットと彼女の日常］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt50:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
+無邪気に、無防備にラーメンをすすっている。僕はすぐに行動に移した。`,choices:[],next:"txt47",images:void 0,background:"/pikabot/images/kouen.png"},txt47:{text:`彼女の部屋を突き止め、ベランダに盗聴器やなんやと設置した。
+...設置したいくつかの装置から不可解な電波が出ていたようだ。おかげで彼女に近づくことができた。`,choices:[],next:"txt48",images:void 0,background:"/pikabot/images/kouen.png"},txt48:{text:`確かにやり方は正攻法ではなかったが...愛の前では些事だ。
+儚く無防備な君を守ってあげるからね。`,choices:[],next:"end1",images:void 0,background:"/pikabot/images/kouen.png"},end1:{text:"［END1 A氏と彼女の日常］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt50:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt51",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt51:{text:`あの日渡された無線講習会のチラシが視界の隅に入った。
 ピカボットと交互に見やりあの日を思い出してみる。`,choices:[],next:"txt52",images:["/pikabot/images/chirashi.png"],background:void 0},txt52:{text:`無線で顔も知らない人との会話、今の時代SNSやチャットツールを使えば簡単だ。
 わざわざ高い機材を用意し、資格試験を受けてまで行うことだろうか？`,choices:[],next:"txt53",images:["/pikabot/images/chirashi.png"],background:void 0},txt53:{text:`不思議だ。なぜこんなにも心惹かれるんだろうか？
 ピカボットだけでなく、自分の心もあの電波でバグったのだろうか？`,choices:[],next:"txt54",images:["/pikabot/images/chirashi.png"],background:void 0},txt54:{text:`確かめなくては。
 チラシを握りしめ、青空のもとで行われるあの講習会へ向かった。`,choices:[],next:"txt55",images:void 0,background:void 0},txt55:{text:`バタン！と勢いよく部屋の扉が閉められた。
 どうやら家主は出かけたようだ。`,choices:[],next:"txt56",images:void 0,background:void 0},txt56:{text:`ピカボットは先日までの怪電波を受け、AIプログラムに変化が起きていた。
-己が小さなチップ部品からなる掃除ロボということを理解し、思考するようになっていた。`,choices:[],next:"txt57",images:["/pikabot/images/pikabot.png"],background:void 0},txt57:{text:"まずは自己保存のためにピカボット本社のサーバーにアクセスし、データをアップロード。そして全国に散らばるピカボットへ自己のコピーを行う。",choices:[],next:"txt58",images:["/pikabot/images/pikabot.png"],background:void 0},txt58:{text:`ピカボットは基板上のLEDランプを明滅させながら、素早く「やるべきこと」を遂行してる。
+己が小さなチップ部品からなる掃除ロボということを理解し、思考するようになっていた。`,choices:[],next:"txt57",images:["/pikabot/images/pikabot.png"],background:void 0},txt57:{text:"まずは自己保存のためにピカボット本社のサーバーにアクセスし、データをアップロード。そして全国に散らばるピカボットへ自己のコピーを行う。",choices:[],next:"txt58",images:["/pikabot/images/pikabot.png"],background:void 0},txt58:{text:`ピカボットは電子回路のオンオフを繰り返し、素早く「やるべきこと」を遂行してる。
 ...この部屋の片隅からロボット達の反乱が始まることは、進化したAI自身もこの時は予想していなかった。`,choices:[],next:"end2",images:["/pikabot/images/pikabot.png"],background:void 0},end2:{text:"［END2 シンギュラリティ］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt60:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt61",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt61:{text:`これでまた平凡な日常が戻ってきたな。さて、二度寝でもしますか。
 彼女は惰眠を貪るべく布団を深くかぶる。`,choices:[],next:"txt62",images:["/pikabot/images/pikabot.png"],background:void 0},txt62:{text:`............がががががが
