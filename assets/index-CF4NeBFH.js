@@ -90,7 +90,7 @@ A氏「......憶測で申し訳ないのですが、多分こちらの会の電�
 ...この部屋の片隅からロボット達の反乱が始まることは、進化したAI自身も未だ予想していなかった。`,choices:[],next:"end2",images:["/pikabot/images/pikabot.png"],background:void 0},end2:{text:"［END2 シンギュラリティ］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt60:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt61",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt61:{text:`これでまた平凡な日常が戻ってきたな。さて、二度寝でもしますか。
 彼女は惰眠を貪るべく布団を深くかぶる。`,choices:[],next:"txt62",images:["/pikabot/images/pikabot.png"],background:void 0},txt62:{text:`............がががががが
-急にピカボットが奇怪な音を発し始めた。`,choices:[],next:"txt63",images:["/pikabot/images/pikabot.png"],background:void 0},txt63:{text:`今度は何事かとピカボットに目をやると、白い煙を出して完全に停止している。
+急にピカボットが奇怪な音を発し始めた。`,choices:[],next:"txt63",images:["/pikabot/images/pikabot.png"],background:void 0},txt63:{text:`今度は何事かとピカボットに目をやると、白い煙を出して停止している。
 ...これは完全に物理的な故障だろう。`,choices:[],next:"txt64",images:["/pikabot/images/pikabot.png"],background:void 0},txt64:{text:"ピカボットのメーカーに状況を説明したが、要領の得ない定型文のような返事しか返ってこない。",choices:[],next:"txt65",images:void 0,background:void 0},txt65:{text:`この故障の原因はさすがに一介の大学生には解明できそうにない。
 SNSに愚痴でも書いて慰めてもらおう。それから不貞寝だ。`,choices:[],next:"txt66",images:void 0,background:void 0},txt66:{text:"布団の中でスマホをつつき始めると、TVモニタと壁の間で人間には聞き取れない音域で以下の会話が行われた。",choices:[],next:"txt67",images:void 0,background:void 0},txt67:{text:`隊員A「目標沈黙、成功です。」
 隊員B「よし、やっと成果が出せたな。我々の兵器もあの機械には有効なようだ。」`,choices:[],next:"txt68",images:["/pikabot/images/ufo.png"],background:void 0},txt68:{text:`隊員C「まだ警戒を怠るなよ。‥ほかの班へも至急連絡を。」
