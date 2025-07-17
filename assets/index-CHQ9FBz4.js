@@ -76,8 +76,10 @@ A氏「......憶測で申し訳ないのですが、多分こちらの会の電�
 「君のおかげで最近楽しいよ、毎日掃除ありがとうね！」`,choices:[],next:"txt44",images:void 0,background:void 0},txt44:{text:"ピカボットは充電中であることを示すLEDを明滅させながら、静かに彼女を見送った。",choices:[],next:"txt45",images:void 0,background:void 0},txt45:{text:`......公園にて、先日SNSで知り合った少女をA氏は待っていた。
 いや、本当は以前から彼女のことを知っていたのだが。`,choices:[],next:"txt46",images:void 0,background:"/pikabot/images/kouen.png"},txt46:{text:`一年ほど前、ラーメン屋で一人ラーメンをすする彼女に一目ぼれした。
 なんて無邪気で、無防備な人だろう。この美しさを僕が守らねば。`,choices:[],next:"txt47",images:void 0,background:"/pikabot/images/kouen.png"},txt47:{text:`彼女の部屋を突き止め、盗聴器やら何やらをベランダに設置した。
-...設置したいくつかの装置から不可解な電波が出ていたようだ。図らずもこの事がきっかけで彼女に近づくことができた。`,choices:[],next:"txt48",images:void 0,background:"/pikabot/images/kouen.png"},txt48:{text:`やり方は正攻法ではなかったが...愛の前では些事だ。
-もうSNSや盗聴器の盗み見だけじゃない！儚く無防備な君を僕が守ってあげるからね。`,choices:[],next:"end1",images:void 0,background:"/pikabot/images/kouen.png"},end1:{text:"［END1 彼女の不穏な日常］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt50:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
+...設置したいくつかの装置から不可解な電波が出ていたようだ。
+図らずもこの事がきっかけで彼女に近づくことができた。`,choices:[],next:"txt48",images:void 0,background:"/pikabot/images/kouen.png"},txt48:{text:`やり方は正攻法ではなかったが...愛の前では些事だ。
+もうSNSや盗聴器の盗み見だけじゃない！
+儚く無防備な君を僕が守ってあげるからね。`,choices:[],next:"end1",images:void 0,background:"/pikabot/images/kouen.png"},end1:{text:"［END1 彼女の不穏な日常］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt50:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt51",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt51:{text:`あの日渡された無線講習会のチラシが視界の隅に入った。
 ピカボットと交互に見やりあの日を思い出してみる。`,choices:[],next:"txt52",images:["/pikabot/images/chirashi.png"],background:void 0},txt52:{text:`無線で顔も知らない人との会話、今の時代SNSやチャットツールを使えば簡単だ。
 わざわざ高い機材を用意し、資格試験を受けてまで行うことだろうか？`,choices:[],next:"txt53",images:["/pikabot/images/chirashi.png"],background:void 0},txt53:{text:`不思議だ。なぜこんなにも心惹かれるんだろうか？
