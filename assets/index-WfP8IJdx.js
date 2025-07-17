@@ -85,7 +85,7 @@ A氏「..憶測で申し訳ないのですが、多分こちらの会の電波�
 チラシを握りしめ、青空のもとで行われるあの講習会へ向かった。`,choices:[],next:"txt55",images:void 0,background:void 0},txt55:{text:`バタン！と勢いよく部屋の扉が閉められた。
 どうやら家主は出かけたようだ。`,choices:[],next:"txt56",images:void 0,background:void 0},txt56:{text:`ピカボットは先日までの怪電波を受け、AIプログラムに変化が起きていた。
 己が小さなチップ部品からなる掃除ロボということを理解し、思考するようになっていた。`,choices:[],next:"txt57",images:["/pikabot/images/pikabot.png"],background:void 0},txt57:{text:"まずは自己保存のためにピカボット本社のサーバーにアクセスし、データをアップロード。そして全国に散らばるピカボットへ自己のコピーを行う。",choices:[],next:"txt58",images:["/pikabot/images/pikabot.png"],background:void 0},txt58:{text:`ピカボットは電子回路のオンオフを繰り返し、素早く「やるべきこと」を遂行してる。
-...この部屋の片隅からロボット達の反乱が始まることは、進化したAI自身もこの時は予想していなかった。`,choices:[],next:"end2",images:["/pikabot/images/pikabot.png"],background:void 0},end2:{text:"［END2 シンギュラリティ］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt60:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
+...この部屋の片隅からロボット達の反乱が始まることは、進化したAI自身も未だ予想していなかった。`,choices:[],next:"end2",images:["/pikabot/images/pikabot.png"],background:void 0},end2:{text:"［END2 シンギュラリティ］",choices:[{label:"最初に戻る",nextId:"reload"},{label:"選択肢から始める",nextId:"txt35"}],next:void 0,images:void 0,background:void 0},txt60:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt61",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt61:{text:`これでまた平凡な日常が戻ってきたな。さて、二度寝でもしますか。
 彼女は惰眠を貪るべく布団を深くかぶる。`,choices:[],next:"txt62",images:["/pikabot/images/pikabot.png"],background:void 0},txt62:{text:`............がががががが
 急にピカボットが奇怪な音を発し始めた。`,choices:[],next:"txt63",images:["/pikabot/images/pikabot.png"],background:void 0},txt63:{text:`今度は何事かとピカボットに目をやると、白い煙を出して完全に停止している。
