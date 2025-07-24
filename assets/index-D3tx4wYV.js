@@ -67,8 +67,7 @@ Error generating stack: `+u.message+`
 A氏「......憶測で申し訳ないのですが、多分こちらの会の電波が関係していそうなんです。」`,choices:[],next:"txt31",images:void 0,background:void 0},txt31:{text:`主催者は話しを最後まで聞くと、深々と頭を下げた。
 「ご迷惑をお掛けしました！！多分私たちの活動のせいだと思います！！」`,choices:[],next:"txt32",images:void 0,background:void 0},txt32:{text:`どうやら思い当たる節があったようだ。
 その理由を話してくれたが専門用語が多すぎてほとんど理解できなかった。`,choices:[],next:"txt33",images:void 0,background:void 0},txt33:{text:`次回からは電波強度を下げ、周辺機器に影響が出ないようにしてくれるようだ。
-また、念のためピカボットメーカーへも連絡を入れてくれるとのこと。`,choices:[],next:"txt34",images:void 0,background:void 0},txt34:{text:`今後はこのような事がないようにします。と何度も頭を下げられ、自分が一番年下だったせいか、若干心苦しくなった。
-そのせいもあって、ちゃっかり渡された講習会の案内チラシを受け取ってしまった..。`,choices:[],next:"txt35",images:["/pikabot/images/chirashi.png"],background:void 0},txt35:{text:`その後A氏とともに例のラーメン屋へ行き、昼飯をおごってもらうこととなった。
+また、念のためピカボットメーカーへも連絡を入れてくれるとのこと。`,choices:[],next:"txt34",images:void 0,background:void 0},txt34:{text:"今後はこのような事がないようにします。と何度も頭を下げられ、自分が一番年下だったせいか、若干心苦しくなった。",choices:[],next:"txt34_2",images:["/pikabot/images/chirashi.png"],background:void 0},txt34_2:{text:"そのせいもあって、ちゃっかり渡された講習会の案内チラシを受け取ってしまった..。",choices:[],next:"txt35",images:["/pikabot/images/chirashi.png"],background:void 0},txt35:{text:`その後A氏とともに例のラーメン屋へ行き、昼飯をおごってもらうこととなった。
 ここの牛コツ塩ラーメンが絶品なのだが、A氏は味噌一択だと言い張っている。`,choices:[{label:"自分を信じろ！牛コツ塩ラーメン",nextId:"txt40"},{label:"冒険も一興、赤味噌旨辛ラーメン",nextId:"txt50"},{label:"ここはあえてチャーハン・唐揚げ定食",nextId:"txt60"}],next:void 0,images:void 0,background:"/pikabot/images/ramenya.png"},txt40:{text:`翌週の日曜日、ピカボットは颯爽と部屋をめぐり埃を吸い込んでいる。
 主催者は約束を守ってくれたようだ。`,choices:[],next:"txt41",images:["/pikabot/images/pikabot.png"],background:"/pikabot/images/room.png"},txt41:{text:`A氏とはその後ラーメン談義で白熱し、連絡先を交換することとなった。
 今日もこれから彼とラーメン屋を新規開拓する予定だ。`,choices:[],next:"txt42",images:void 0,background:void 0},txt42:{text:`そしてこの数か月後、彼とお付き合いすることになるが...
